@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidZhang0117
 - 👀 I’m interested in ROBOCON
-- 🌱 I’m currently learning ML,DL,Embodied AI
+- 🌱 I’m currently learning Video Code,Video Compression,
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 485506559#qq.com(#换成@)
+- 📫 How to reach me davidzhang0117xju#gmail.com(#换成@)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
